@@ -1,6 +1,6 @@
 # Gta  san-andreas sıkıştırılmış paket 
 # Oyun temzidir virüs kesinlikle yoktur.
-# Daha fazlası için destek  olamyı unutmayın 
+# Daha fazlası için destek  olmayı unutmayın 
 # Aşşağıda verdiğim linkten oyunu inidrin.
 # iyi oyunlar :)
 
